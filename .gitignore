@@ -8,6 +8,7 @@ sp25-cs411-team110-popcorn/
 .env.production.local
 
 # Python
+venv/
 __pycache__/
 *.py[cod]
 *$py.class
