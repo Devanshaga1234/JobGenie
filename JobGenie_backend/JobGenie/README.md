@@ -1,4 +1,4 @@
-# 💼 JobGenie SQL Backend — CS 411 Stage 3
+# 💼 JobGenie SQL Backend —
 
 Welcome to the backend of **JobGenie**, an AI-powered job recommendation and notification system.  
 This repo contains the **Python scripts**, **SQL schema**, and **GCP connection setup** used for:
