@@ -1,7 +1,7 @@
 // Home.jsx
 import React from 'react';
 import { Link } from 'react-router-dom';
-import logo from '/Users/aaryangusain/JobGenie_Draft/job-genie-frontend/src/JOB_Genie_LOGO.jpg'; 
+import logo from '/Users/devan/JobGenie_Draft/job-genie-frontend/src/JOB_Genie_LOGO.jpg'; 
 
 function Home() {
   return (

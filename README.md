@@ -1,10 +1,5 @@
 # 💼 JobGenie - AI-Powered Job Recommendation System
 
-[![GitHub](https://img.shields.io/github/license/AaryanGusain/Job_Genie)](https://github.com/AaryanGusain/Job_Genie/blob/main/LICENSE)
-[![React](https://img.shields.io/badge/React-18.2.0-blue)](https://reactjs.org/)
-[![Python](https://img.shields.io/badge/Python-3.8+-green)](https://python.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-18+-brightgreen)](https://nodejs.org/)
-
 An intelligent job recommendation and notification system that uses AI to match candidates with their ideal job opportunities. JobGenie combines advanced SQL querying, machine learning algorithms, and a modern web interface to revolutionize the job search experience.
 
 ## 🌟 Features
@@ -262,10 +257,6 @@ We welcome contributions! Please follow these steps:
 - Add tests for new features
 - Update documentation as needed
 
-## 📝 License
-
-This project is licensed under the ISC License. See the [LICENSE](LICENSE) file for details.
-
 ## 🐛 Known Issues
 
 - Large file uploads may timeout on slower connections
@@ -281,24 +272,9 @@ This project is licensed under the ISC License. See the [LICENSE](LICENSE) file 
 - [ ] Video interview scheduling
 - [ ] Salary prediction algorithms
 
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-1. Check the [Issues](https://github.com/AaryanGusain/Job_Genie/issues) page
-2. Create a new issue with detailed information
-3. Contact the development team
-
-## 👥 Team
-
-- **Aaryan Gusain** - [@AaryanGusain](https://github.com/AaryanGusain)
-
 ## 🙏 Acknowledgments
 
 - Thanks to all contributors who have helped shape this project
 - Special thanks to the open-source community for the amazing tools and libraries
 - Inspired by the need to make job searching more intelligent and efficient
 
----
-
-⭐ If you find this project helpful, please give it a star on GitHub!
