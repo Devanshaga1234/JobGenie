@@ -46,7 +46,7 @@ Before running this project, make sure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/AaryanGusain/Job_Genie.git
+git clone https://github.com/Devanshaga1234/JobGenie
 cd Job_Genie
 ```
 
