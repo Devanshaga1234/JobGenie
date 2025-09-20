@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/JobGenie/static/css/main.82896d25.css",
+    "main.js": "/JobGenie/static/js/main.0eb04251.js",
+    "static/media/JOB_Genie_LOGO.jpg": "/JobGenie/static/media/JOB_Genie_LOGO.435f04d4134dfbd6dd35.jpg",
+    "index.html": "/JobGenie/index.html",
+    "main.82896d25.css.map": "/JobGenie/static/css/main.82896d25.css.map",
+    "main.0eb04251.js.map": "/JobGenie/static/js/main.0eb04251.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82896d25.css",
+    "static/js/main.0eb04251.js"
+  ]
+}

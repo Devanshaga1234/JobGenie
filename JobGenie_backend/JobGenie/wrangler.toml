@@ -1,0 +1,8 @@
+name = "jobgenie-api"
+main = "worker.js"
+compatibility_date = "2024-01-15"
+compatibility_flags = ["nodejs_compat"]
+
+[vars]
+NODE_ENV = "production"
+CORS_ORIGIN = "https://devanshaga1234.github.io"

@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "Welcome to the backend of **JobGenie**, an AI-powered job recommendation and notification system.   This repo contains the **Python scripts**, **SQL schema**, and **GCP connection setup** used for:",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Devanshaga1234/JobGenie.git"
@@ -26,5 +23,13 @@
     "natural": "^8.0.1",
     "pdf-parse": "^1.1.1",
     "react-helmet": "^6.1.0"
+  },
+  "devDependencies": {
+    "wrangler": "^3.78.12"
+  },
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "start": "node server.js"
   }
 }
